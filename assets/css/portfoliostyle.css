@@ -1,0 +1,48 @@
+
+
+.heading-bar {
+    height: 100px;
+    background-color: pink;
+}
+
+#nameid {
+    font-size:50px;
+    font-width:400px;
+    display:inline;
+    background-color: skyblue;
+    margin-left: 200px;
+    margin-right:300px;
+    height: 200px;
+}
+
+#htmllinks {
+    margin-right:10px;
+}
+
+.full-body {
+    height:400px;
+    border-top-style:solid;
+    border-bottom-style:solid;
+    border-left-style:solid;
+    border-light-style:solid;
+    border-width:5px;
+    border-color: rgb(119, 18, 201);
+    background-color: rgb(48, 187, 78);
+}
+
+#textinfo {
+    text-align: Center;
+    font-family: 'Satisfy', cursive;
+    font-size:250%;
+}
+
+
+.breadcrumb {
+    background-color: grey;
+    height:60px;
+    margin-top: 0px;
+}
+
+#breadbody {
+    text-align: center;
+}
